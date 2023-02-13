@@ -1,6 +1,6 @@
 - Hi, Im Mehmet Ali Erdoğan. Im a 2nd computer engineering student that is currently trying to do projects to get better at coding.
-- I'm interested in game developement. I hope to become a good game designer and a brilliant indie developer
-- I currently am learing python. The reason Im working with python even though Im interested in game developement is because Im firstly trying to learn all about Object-Oriented Programming. It feels easier to learn it in pyhton than it is on C# or C++. And having a grip on the most popular coding language always helps
+- I'm interested in game developement. I hope to become the best developer I could ever be.
+- I currently am working on python AI projects and website building.
 - I can collaborate on any kind of project that doesn't require a high level knowledge
 - You can contact me via malierdgnn@gmail.com
 

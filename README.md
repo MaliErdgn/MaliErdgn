@@ -1,6 +1,5 @@
-- Hi, Im Mehmet Ali Erdoğan. Im a 2nd computer engineering student that is currently trying to do projects to get better at coding.
-- I currently am working on python projects and website building.
-- I can collaborate on any kind of project that doesn't require a high level knowledge
+- Hi, Im Mehmet Ali Erdoğan. Im a 3rd computer engineering student.
+- I currently am working on Database Technologies such as MSSQL and fullstack development.
 - You can contact me via malierdgnn@gmail.com
 
 <!---

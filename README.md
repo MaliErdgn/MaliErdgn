@@ -32,6 +32,7 @@ Did you know I enjoy coding while sipping on a cup of Turkish tea? It fuels my c
 - Frameworks: Laravel, React.js
 - Databases: MSSQL, MySQL
 - Version Control: Git
+- Technologies: Docker
 
 <!---
 MaliErdgn/MaliErdgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

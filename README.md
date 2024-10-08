@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm a dedicated 4th year Computer Engineering stud
 Did you know I enjoy coding while sipping on a cup of Turkish tea? It fuels my creativity!
 
 ### 📈 GitHub Stats:
-![malierdgn's Stats](https://github-readme-stats.vercel.app/api?username=malierdgn&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![malierdgn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=malierdgn&theme=dark&hide_border=true)
+<img align="left" alt="Mali's Github Stats" src="https://vercel.live/link/github-readme-stats-c449.vercel.app?via=project-dashboard-alias-list&p=1" />
 
 ### 🛠️ Toolbox:
 - Languages: HTML, CSS, JavaScript, PHP, C#,

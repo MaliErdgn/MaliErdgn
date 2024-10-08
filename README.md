@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a dedicated 4th year Computer Engineering stud
 Did you know I enjoy coding while sipping on a cup of Turkish tea? It fuels my creativity!
 
 ### 📈 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malierdgn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![malierdgn's Stats](https://github-readme-stats.vercel.app/api?username=malierdgn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### 🛠️ Toolbox:
 - Languages: HTML, CSS, JavaScript, PHP, C#,

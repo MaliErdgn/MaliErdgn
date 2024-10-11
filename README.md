@@ -29,9 +29,12 @@ Did you know I enjoy coding while sipping on a cup of Turkish tea? It fuels my c
 ### 📈 GitHub Stats:
 <img align="left" alt="Mali's Github Stats" src="https://github-readme-stats-c449.vercel.app/api?username=malierdgn&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 
+
+
+
 ### 🛠️ Toolbox:
-- Languages: HTML, CSS, JavaScript, PHP, C#,
-- Frameworks: Laravel, React.js, .Net MAUI,
+- Languages: HTML, CSS, JavaScript, TypeScript, PHP, C#,
+- Frameworks: React.js, React-Native, .Net MAUI, Laravel
 - Databases: MSSQL, MySQL
 - Version Control: Git
 - Technologies: Docker
